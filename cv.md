@@ -1,7 +1,7 @@
 # Ivan Kondzerau
 
 
-## Contact info:
+**Contact info:**
 * +375296661325
 * [GitHub](https://github.com/kondzerau-ivan)
 * [LinkedIn](https://www.linkedin.com/in/ivan-kondzerau/)
