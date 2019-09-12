@@ -12,8 +12,8 @@
 **I'm a mature person with a wide range of work experiences who is currently studying Web-development. I'm interested in such technologys like node and react.**
 
 
-|Skills|
-|------|------|------|
+##Skills
+
 |HTML | Often used tags, semantic elemints | Practice using and good understanding|
 |CSS | Selectors, pseudo-elements and pseudo-classes, inhetitance and cascading, Bem-methodology | Practice using and good understanding|
 |JavaScript | Basic syntax: conditions, loops, arrays, functions and objects | I familiar with OOP and functional programming on basic theoretical level, haven't practice, except - codewars.com|
