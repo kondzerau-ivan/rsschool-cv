@@ -34,4 +34,4 @@
 
 ## English
 
-** I learned English at school and university. Think, I have A2 (pre-intermediate) level. I can read docs and watch tutorials on youtube and udemy in original. I can speak with a short sentences with a wide range of themes. Time to time I like to watch some TV shows in original, like Netflix, Amazon, HBO etc. **
+**I learned English at school and university. Think, I have A2 (pre-intermediate) level. I can read docs and watch tutorials on youtube and udemy in original. I can speak with a short sentences with a wide range of themes. Time to time I like to watch some TV shows in original, like Netflix, Amazon, HBO etc.**
