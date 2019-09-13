@@ -26,6 +26,12 @@
 ## Education
 
 * Mogilev State A. Kuleshov University
-  * Physics and informatics - completed 4 courses out of 5
+  * Physics and informatics - completed 4 courses out of 5;
 * HTML Academy
-  * Front-end developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying
+  * Frontend developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying;
+* RS School
+  * Javascript / Frontend - currently studing;
+
+## English
+
+** I learned English at school and university. Think, I have A2 (pre-intermediate) level. I can read docs and watch tutorials on youtube and udemy in original. I can speak with a short sentences with a wide range of themes. Time to time I like to watch some TV shows in original, like Netflix, Amazon, HBO etc. **
