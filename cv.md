@@ -13,7 +13,7 @@
 
 | Skills | Details | Level |
 |--------|---------|-------|
-| HTML | Often used tags, semantic elemints | Practice using and good understanding |
+| HTML | Often used tags, semantic elements | Practice using and good understanding |
 | CSS | Selectors, pseudo-elements and pseudo-classes, inhetitance and cascading, Bem-methodology | Practice using and good understanding |
 | JavaScript | Basic syntax: conditions, loops, arrays, functions and objects | I familiar with OOP and functional programming on basic theoretical level, haven't practice, except - codewars.com |
 | MongoDB | Compas, document model and basic schema design, query language | I completed the course "M001: MongoDB Basics" on MongoDB University |
