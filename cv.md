@@ -25,11 +25,11 @@
 
 ## Education
 
-* Mogilev State A. Kuleshov University
+* [Mogilev State A. Kuleshov University](https://www.msu.by/en/)
   * Physics and informatics - completed 4 courses out of 5;
-* HTML Academy
+* [HTML Academy](https://htmlacademy.ru/profile/id1033347)
   * Frontend developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying;
-* RS School
+* [RS School](https://rs.school/)
   * Javascript / Frontend - currently studing;
 
 ## English
