@@ -23,4 +23,9 @@
 | Software development models and methodologies | Waterfall, Agile (Scrum, Kanban); Test-Driven-Development, Behavior-Driven-Development | Understanding main principles |
 
 
-## Courses
+## Education
+
+* Mogilev State A. Kuleshov University
+** Physics and informatics - completed 4 courses out of 5
+* HTML Academy
+** Front-end developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying
