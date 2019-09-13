@@ -26,6 +26,6 @@
 ## Education
 
 * Mogilev State A. Kuleshov University
-** Physics and informatics - completed 4 courses out of 5
+  * Physics and informatics - completed 4 courses out of 5
 * HTML Academy
-** Front-end developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying
+  * Front-end developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying
