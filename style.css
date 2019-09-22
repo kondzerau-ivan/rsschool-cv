@@ -3,6 +3,21 @@
   margin: 0 auto;
 }
 
+h1 {
+  text-align: center;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+
 table  {
   border: 1px solid #000000;
   border-collapse: collapse;
