@@ -34,3 +34,8 @@ td {
   border: 1px solid #000000;
 
 }
+
+.condition,
+.decision {
+  background-color: #f6f8fa;
+}
