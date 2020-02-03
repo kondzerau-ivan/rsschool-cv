@@ -8,8 +8,7 @@ h1 {
 }
 
 .avatar {
-  width: 200px;
-  border-radius: 50%;
+  width: 150px;
 }
 
 .header {
@@ -38,4 +37,16 @@ td {
 .condition,
 .decision {
   background-color: #f6f8fa;
+}
+
+.certificates-wrapper {
+  width: 100%;
+}
+
+.certificate {
+  width: 49%;
+}
+
+.english {
+  margin-bottom: 50px;
 }
