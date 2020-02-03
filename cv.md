@@ -67,8 +67,8 @@ function findUniq(arr) {
 
 ### Certificates
 
-<img src="img/html1.jpg" width="50%"/>
-<img src="img/html2.jpg" width="50%"/>
+<img src="img/html1.jpg" width="49%"/>
+<img src="img/html2.jpg" width="49%"/>
 
 ## English
 
