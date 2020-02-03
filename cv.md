@@ -1,5 +1,5 @@
 # Ivan Kondzerau
-
+<img src="img/avatar.jpg" width="120" align="right"/>
 
 **Contact info:**
 * +375296661325
@@ -15,9 +15,10 @@
 |--------|---------|-------|
 | HTML | Often used tags, semantic elements | Practice using and good understanding |
 | CSS | Selectors, pseudo-elements and pseudo-classes, inhetitance and cascading, Bem-methodology | Practice using and good understanding |
-| JavaScript | Basic syntax: conditions, loops, arrays, functions and objects | I familiar with OOP and functional programming on basic theoretical level, haven't practice, except - [codewars.com](https://www.codewars.com/users/konderev.ivan) |
+| JavaScript | Basic syntax: conditions, loops, arrays, functions and objects | I familiar with OOP and functional programming on basic theoretical level - [codewars.com](https://www.codewars.com/users/konderev.ivan) |
+| SQL | Syntax | Basic SQL querys |
 | MongoDB | Compas, document model and basic schema design, query language | I completed the course [M001: MongoDB Basics](http://university.mongodb.com/course_completion/2898d33a-1d1b-4064-b842-280c87b0d025) on MongoDB University |
-| Git | At a very basic level, such as: clone, add, commit, pull, push and create and use SSH-keys | Working with git on git-bash (Windows 10) or terminal (Ubuntu) |
+| Git | Basic level, such as: clone, add, commit, pull, push, merge and use SSH-keys | Working with git on git-bash (Windows 10) or terminal (Ubuntu) |
 | Web | DOM and http-protocol | Good understanding |
 | OS | Windows (XP, 7, 10), Ubuntu | Advanced user |
 | Software development models and methodologies | Waterfall, Agile (Scrum, Kanban); Test-Driven-Development, Behavior-Driven-Development | Understanding main principles |
@@ -60,9 +61,14 @@ function findUniq(arr) {
 * [Mogilev State A. Kuleshov University](https://www.msu.by/en/)
   * Physics and informatics - completed 4 courses out of 5;
 * [HTML Academy](https://htmlacademy.ru/profile/id1033347)
-  * Frontend developer (html & css - level 1, html & css - level 2, javascript - level 1) - currently studying;
+  * Frontend developer (html & css - level 1, html & css - level 2), javascript - level 1 - currently studying;
 * [RS School](https://rs.school/)
   * Javascript / Frontend - currently studing;
+
+### Certificates
+
+<img src="img/html1.jpg" width="265"/>
+<img src="img/html2.jpg" width="265"/>
 
 ## English
 
