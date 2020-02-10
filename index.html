@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CV - Ivan Kondzerau</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <h1>Ivan Kondzerau</h1>
+        <div class="header">
+          <div class="contact-info">
+            <h2>Contact Info:</h2>
+            <ul>
+              <li>
+                <a href="tel:+375296661325">+375296661325</a>
+                <span>BY</span>
+              </li>
+              <li>
+                <a href="tel:+48519188762">+48519188762</a>
+                <span>PL</span>
+              </li>
+              <li>
+                <a href="https://github.com/kondzerau-ivan">GitHub</a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/ivan-kondzerau/"
+                  >linkedIn</a
+                >
+              </li>
+              <li>
+                <a href="mailto:konderev.ivan@gmail.com"
+                  >konderev.ivan@gmail.com</a
+                >
+              </li>
+            </ul>
+          </div>
+          <img class="avatar" src="img/avatar.jpg" alt="Ivan Kondzerau photo" />
+        </div>
+        <p>
+          I’m a mature person with a wide range of work experiences who is
+          currently studying Web-development. I’m interested in such technologys
+          like node and react.
+        </p>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <section>
+          <h2 class="visibility-hidden">Skills</h2>
+          <table>
+            <tr>
+              <th>Skills</th>
+              <th>Details</th>
+              <th>Level</th>
+            </tr>
+            <tr>
+              <td>HTML</td>
+              <td>Often used tags, semantic elements</td>
+              <td>Practice using and good understanding</td>
+            </tr>
+            <tr>
+              <td>CSS</td>
+              <td>
+                Selectors, pseudo-elements and pseudo-classes, inhetitance and
+                cascading, Bem-methodology
+              </td>
+              <td>Practice using and good understanding</td>
+            </tr>
+            <tr>
+              <td>SASS</td>
+              <td>Based on SCSS sytax</td>
+              <td>Practice using and good understanding</td>
+            </tr>
+            <tr>
+              <td>Gulp</td>
+              <td>Work with plagins: rename, del, csso, posthtml, posthtml-include, svgstore, imagemin, webp, sourcemaps, browser-sync, post-css, autoprefixer, postcss</td>
+              <td>Practice using and good understanding</td>
+            </tr>
+            <tr>
+              <td>JavaScript</td>
+              <td>
+                Basic syntax: conditions, loops, arrays, functions and objects
+              </td>
+              <td>
+                I familiar with OOP and functional programming on basic
+                theoretical level, haven’t practice, except -
+                <a href="https://www.codewars.com/users/konderev.ivan"
+                  >codewars.com</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <td>SQL</td>
+              <td>Syntax</td>
+              <td>Basic SQL querys</td>
+            </tr>
+            <tr>
+              <td>MongoDB</td>
+              <td>
+                Compas, document model and basic schema design, query language
+              </td>
+              <td>
+                I completed the course
+                <a
+                  href="https://university.mongodb.com/course_completion/2898d33a-1d1b-4064-b842-280c87b0d025"
+                  >M001: MongoDB Basics</a
+                >
+                on MongoDB University
+              </td>
+            </tr>
+            <tr>
+              <td>Git</td>
+              <td>
+                At a very basic level, such as: clone, add, commit, pull, push
+                and create and use SSH-keys
+              </td>
+              <td>
+                Working with git on git-bash (Windows 10) or terminal (Ubuntu)
+              </td>
+            </tr>
+            <tr>
+              <td>Web</td>
+              <td>DOM and http-protocol</td>
+              <td>Good understanding</td>
+            </tr>
+            <tr>
+              <td>OS</td>
+              <td>Windows (XP, 7, 10), Ubuntu</td>
+              <td>Advanced user</td>
+            </tr>
+            <tr>
+              <td>Software development models and methodologies</td>
+              <td>
+                Waterfall, Agile (Scrum, Kanban); Test-Driven-Development,
+                Behavior-Driven-Development
+              </td>
+              <td>Understanding main principles</td>
+            </tr>
+          </table>
+        </section>
+        <section>
+          <h2>Code examples</h2>
+          <h3>
+            <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235"
+              >Find the unique number</a
+            >
+          </h3>
+          <p>
+            There is an array with some numbers. All numbers are equal except
+            for one. Try to find it!
+          </p>
+          <pre class="condition">
+          findUniq([ 1, 1, 1, 2, 1, 1 ]) === 2
+          findUniq([ 0, 0, 0.55, 0, 0 ]) === 0.55</pre
+          >
+          <p>
+            It’s guaranteed that array contains more than 3 numbers.<br />
+            The tests contain some very huge arrays, so think about performance.
+          </p>
+          <h4>Solution:</h4>
+          <pre class="decision">
+          function findUniq(arr) {
+            for (var i = 1; i <= arr.length; i++){
+              if (arr[i - 1] != arr[i] && arr[i - 1] === arr[i + 1]){
+                return arr[i];
+              }
+              if (arr[i - 1] != arr[i] && arr[i - 1] != arr[i + 1]){
+                return arr[i - 1];
+              }
+              if (arr[i - 1] === arr [i] && arr[i - 1] != arr[i + 1]){
+                return arr[i + 1];
+              }
+            } 
+          }
+        </pre
+          >
+        </section>
+        <section>
+          <h2>Education</h2>
+          <ul>
+            <li>
+              <a href="https://www.msu.by/en/"
+                >Mogilev State A. Kuleshov University</a
+              >
+              <ul>
+                <li>Physics and informatics - completed 4 courses out of 5;</li>
+              </ul>
+            </li>
+            <li>
+              <a href="https://htmlacademy.ru/profile/id1033347"
+                >HTML Academy</a
+              >
+              <ul>
+                <li>
+                  Frontend developer (html & css - level 1, html & css - level 2), javascript - level 1 - currently studying;
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="https://rs.school/">RS School</a>
+              <ul>
+                <li>Javascript / Frontend - currently studing;</li>
+              </ul>
+            </li>
+          </ul>
+          <div class="certificates-wrapper">
+            <h3>Certificates</h3>
+            <img class="certificate" src="img/html1.jpg" alt="certificate html & css, level 1">
+            <img class="certificate" src="img/html2.jpg" alt="certificate html & css, level 1">
+          </div>
+        </section>
+        <section class="english">
+          <h2>English</h2>
+          <p>
+            I learned English at school and university. Think, I have A2
+            (pre-intermediate) level. I can read docs and watch tutorials on
+            youtube and udemy in original. I can speak with a short sentences
+            with a wide range of themes. Time to time I like to watch some TV
+            shows in original, like Netflix, Amazon, HBO etc.
+          </p>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

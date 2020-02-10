@@ -1,0 +1,53 @@
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.avatar {
+  height: 150px;
+  width: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+table  {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  
+}
+
+th {
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #000000;
+
+}
+
+.condition,
+.decision {
+  background-color: #f6f8fa;
+}
+
+.certificates-wrapper {
+  width: 100%;
+}
+
+.certificate {
+  width: 49%;
+}
+
+.english {
+  margin-bottom: 50px;
+}
