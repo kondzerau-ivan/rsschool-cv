@@ -15,6 +15,8 @@
 |--------|---------|-------|
 | HTML | Often used tags, semantic elements | Practice using and good understanding |
 | CSS | Selectors, pseudo-elements and pseudo-classes, inhetitance and cascading, Bem-methodology | Practice using and good understanding |
+| SASS | Based on SCSS sytax | Practice using and good understanding |
+| Gulp | Work with plagins: rename, del, csso, posthtml, posthtml-include, svgstore, imagemin, webp, sourcemaps, browser-sync, post-css, autoprefixer, postcss | Practice using and good understanding |
 | JavaScript | Basic syntax: conditions, loops, arrays, functions and objects | I familiar with OOP and functional programming on basic theoretical level - [codewars.com](https://www.codewars.com/users/konderev.ivan) |
 | SQL | Syntax | Basic SQL querys |
 | MongoDB | Compas, document model and basic schema design, query language | I completed the course [M001: MongoDB Basics](http://university.mongodb.com/course_completion/2898d33a-1d1b-4064-b842-280c87b0d025) on MongoDB University |
